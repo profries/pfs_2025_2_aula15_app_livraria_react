@@ -35,6 +35,12 @@
       "titulo": "Livro 6",
       "imagem": "pequenoprincipe.jpg",
       "preco": 100
+    },
+    {
+      "id": "9e8a",
+      "titulo": "Livro 7",
+      "imagem": "pequenoprincipe.jpg",
+      "preco": 100
     }
   ]
 }
